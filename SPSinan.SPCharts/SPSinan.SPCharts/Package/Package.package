@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="e4c53b6d-f74e-4ace-b417-43a76f409346" 
+        solutionId="e4c53b6d-f74e-4ace-b417-43a76f409346" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="SPSinan.SPCharts"
+        sharePointProductVersion="15.0">
+</package>
